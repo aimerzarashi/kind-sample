@@ -5,4 +5,4 @@ nodes:
 - role: worker
   extraMounts:
   - containerPath: /mnt
-    hostPath: /home/k8suser/github.com/aimerzarashi
+    hostPath: /home/k8suser/github.com/aimerzarashi/kind-sample
